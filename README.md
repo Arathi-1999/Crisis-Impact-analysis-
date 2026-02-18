@@ -16,4 +16,6 @@ The challenges were severe:
 
 4. Many partner restaurants shifted to competing platforms. 
 
-5. Customer acquisition costs rose significantly. 
+5. Customer acquisition costs rose significantly.
+
+## Primary Analysis Findings:
