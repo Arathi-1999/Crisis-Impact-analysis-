@@ -1,6 +1,6 @@
 # Crisis-Impact-analysis-
 ## Problem Statement ##
-Domain: Food Delivery & Consumer Analytics
+**Domain:** Food Delivery & Consumer Analytics
 
 QuickBite Express is a Bengaluru-based food-tech startup (founded in 2020) that connects customers with nearby restaurants and cloud kitchens.
 
