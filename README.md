@@ -44,16 +44,19 @@ Even high-volume restaurants lost 80–94% of pre-crisis orders.
   **•** Average delivery time increased during crisis (pre crisis: 44.17, crisis :47.31)
   
   **•** SLA compliance dropped sharply (77.26%  pre crisis→ 17.30% crisis).
+  
 
 
 **5. Customer Ratings**
 
    **•** The average customer Rating declined sharply  from 4.5 in may → 2.3 in June , aligning with delivery & safety issues.
+
    
 
 **6. Sentiment Analysis**
 
   **•** Top negative keywords: “late, cold, stale, bad packaging”.
+
   
 
 **7. Revenue Loss**
