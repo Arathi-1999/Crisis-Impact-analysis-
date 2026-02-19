@@ -25,11 +25,12 @@ The challenges were severe:
 
    **•** The sharpest fall occurred between May - June 2025.
    
-
+**----------------------------------------**
 **2. City Impact**
 
    **•** The top 5 cities most effected by the crisis were Chennai , Kolkata, Banglore, Hyderabad and Ahmedabad. Each of these major cities recorded a decline of nearly  70% in total orders compared to the pre-crisis period.
    
+**----------------------------------------**
 
 **3. Restaurant Performances** 
 
