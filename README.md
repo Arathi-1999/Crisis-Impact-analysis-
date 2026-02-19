@@ -21,9 +21,9 @@ The challenges were severe:
 ## Primary Analysis Findings:
 **1. Monthly Orders Decline**
 
-During the crisis period (Jun–Sep 2025), total orders declined by 69%, dropping from 114K (pre-crisis) to 35K( crisis).
+    - During the crisis period (Jun–Sep 2025), total orders declined by 69%, dropping from 114K (pre-crisis) to 35K( crisis).
 
-The sharpest fall occurred between May → June 2025.
+    -The sharpest fall occurred between May - June 2025.
 
 **2. City Impact**
 
