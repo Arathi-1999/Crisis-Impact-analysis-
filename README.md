@@ -70,3 +70,7 @@ Even high-volume restaurants lost 80–94% of pre-crisis orders.
 
    **•** The total Revenue dropped from 37.6Mpre crisis to 10. Crisis representing a massive 71% loss from ₹37.6M → ₹10.9M.
 
+
+## Live Dashboard :
+https://app.powerbi.com/view?r=eyJrIjoiMWM0NjhhZjItZWRiNS00ZjFhLWI2MjQtZGM4ZTE2ZTAwOWNiIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+ 
