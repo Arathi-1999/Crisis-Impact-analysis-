@@ -18,6 +18,13 @@ The challenges were severe:
 
 5. Customer acquisition costs rose significantly.
 
+## Tools Used:
+  1. Power BI – Dashboard creation & advanced analytics
+  2. Excel – Data cleaning and preprocessing
+  3. DAX – Custom measures and KPIs
+  4. Power Query – Data transformation
+  5. Canva / PowerPoint – Presentation design
+
 ## Primary Analysis Findings:
 **1. Monthly Orders Decline**
 
