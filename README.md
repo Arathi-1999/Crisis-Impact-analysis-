@@ -1,4 +1,24 @@
 # Crisis-Impact-analysis-
+Project Overview
+Project Type: Business Case Analysis | Data Analytics | Strategic Consulting
+Domain: Food Delivery & Consumer Analytics
+Time Period Analyzed: January - September 2025
+Focus: Crisis Analysis & Recovery Strategy Development
+Tools Used: Power BI, DAX, Statistical Analysis
+Audience: Data Analysts, Business Strategists, Recruiters
+
+Executive Summary
+In June 2025, QuickBite Express - a Bengaluru-based food delivery startup (founded 2020) - faced a critical crisis triggered by:
+
+Viral food safety incident involving partner restaurants
+Week-long delivery infrastructure outage during monsoon season
+Aggressive competitor campaigns capitalizing on operational failures
+Crisis Impact:
+
+73,000 customers churned (70% of active base)
+₹27 million revenue lost in 4 months
+Customer ratings collapsed from 4.5 → 2.3 stars
+20% restaurant partner exodus
 ## Problem Statement ##
 **Domain:** Food Delivery & Consumer Analytics
 
